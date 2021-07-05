@@ -1,0 +1,15 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.bg-color{
+    color: #e67e22;
+}
+.section-one{
+    display: flex;
+}
+.half-width{
+    
+}
